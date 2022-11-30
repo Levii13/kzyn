@@ -2,9 +2,9 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 global.hituet = 0
-global.gopayno = "0877-0504-8235"
-global.danano = "0877-0504-8233"
-global.shopeepayno = "0857-9814-5596"
+global.gopayno = "0888-9312-587"
+global.danano = "0888-9312-587"
+global.shopeepayno = "0888-9212-587"
 global.creator = "6287705048235@s.whatsapp.net"
 global.thumb = fs.readFileSync(`./image/thumb.png`)
 global.qrisdonate = fs.readFileSync(`./image/qris.jpg`)
